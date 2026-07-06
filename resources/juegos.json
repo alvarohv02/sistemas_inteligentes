@@ -1,0 +1,60 @@
+[
+  {"titulo":"Elden Ring","genero":"RPG","plataforma":"PC","anio":2022,"puntuacion":9.7},
+  {"titulo":"Baldur's Gate 3","genero":"RPG","plataforma":"PC","anio":2023,"puntuacion":9.8},
+  {"titulo":"The Witcher 3","genero":"RPG","plataforma":"PC","anio":2015,"puntuacion":9.8},
+  {"titulo":"Cyberpunk 2077","genero":"RPG","plataforma":"PC","anio":2020,"puntuacion":8.9},
+  {"titulo":"Persona 5 Royal","genero":"RPG","plataforma":"PlayStation","anio":2020,"puntuacion":9.6},
+  {"titulo":"Final Fantasy XVI","genero":"RPG","plataforma":"PlayStation","anio":2023,"puntuacion":9.1},
+  {"titulo":"Starfield","genero":"RPG","plataforma":"Xbox","anio":2023,"puntuacion":8.5},
+  {"titulo":"Diablo IV","genero":"RPG","plataforma":"PC","anio":2023,"puntuacion":8.8},
+
+  {"titulo":"God of War","genero":"Accion","plataforma":"PlayStation","anio":2018,"puntuacion":9.6},
+  {"titulo":"God of War Ragnarök","genero":"Accion","plataforma":"PlayStation","anio":2022,"puntuacion":9.7},
+  {"titulo":"Marvel's Spider-Man Remastered","genero":"Accion","plataforma":"PC","anio":2022,"puntuacion":9.3},
+  {"titulo":"Marvel's Spider-Man 2","genero":"Accion","plataforma":"PlayStation","anio":2023,"puntuacion":9.5},
+  {"titulo":"Ghost of Tsushima","genero":"Accion","plataforma":"PlayStation","anio":2020,"puntuacion":9.4},
+  {"titulo":"Sekiro","genero":"Accion","plataforma":"PC","anio":2019,"puntuacion":9.6},
+  {"titulo":"Devil May Cry 5","genero":"Accion","plataforma":"PC","anio":2019,"puntuacion":9.2},
+  {"titulo":"Hades","genero":"Accion","plataforma":"PC","anio":2020,"puntuacion":9.4},
+
+  {"titulo":"The Legend of Zelda: Tears of the Kingdom","genero":"Aventura","plataforma":"Nintendo Switch","anio":2023,"puntuacion":9.9},
+  {"titulo":"The Legend of Zelda: Breath of the Wild","genero":"Aventura","plataforma":"Nintendo Switch","anio":2017,"puntuacion":9.8},
+  {"titulo":"Red Dead Redemption 2","genero":"Aventura","plataforma":"PC","anio":2019,"puntuacion":9.9},
+  {"titulo":"Horizon Forbidden West","genero":"Aventura","plataforma":"PlayStation","anio":2022,"puntuacion":9.2},
+  {"titulo":"Uncharted 4","genero":"Aventura","plataforma":"PlayStation","anio":2016,"puntuacion":9.5},
+  {"titulo":"Death Stranding","genero":"Aventura","plataforma":"PC","anio":2020,"puntuacion":8.8},
+
+  {"titulo":"DOOM Eternal","genero":"Shooter","plataforma":"PC","anio":2020,"puntuacion":9.4},
+  {"titulo":"Counter-Strike 2","genero":"Shooter","plataforma":"PC","anio":2023,"puntuacion":8.9},
+  {"titulo":"Valorant","genero":"Shooter","plataforma":"PC","anio":2020,"puntuacion":8.7},
+  {"titulo":"Call of Duty: Modern Warfare III","genero":"Shooter","plataforma":"PC","anio":2023,"puntuacion":7.8},
+  {"titulo":"Halo Infinite","genero":"Shooter","plataforma":"Xbox","anio":2021,"puntuacion":8.8},
+  {"titulo":"Rainbow Six Siege","genero":"Shooter","plataforma":"PC","anio":2015,"puntuacion":8.8},
+
+  {"titulo":"EA Sports FC 25","genero":"Deportes","plataforma":"PC","anio":2024,"puntuacion":7.8},
+  {"titulo":"NBA 2K25","genero":"Deportes","plataforma":"PC","anio":2024,"puntuacion":8.1},
+  {"titulo":"F1 24","genero":"Deportes","plataforma":"PC","anio":2024,"puntuacion":8.5},
+  {"titulo":"PGA Tour 2K23","genero":"Deportes","plataforma":"PC","anio":2023,"puntuacion":7.9},
+
+  {"titulo":"Forza Horizon 5","genero":"Carreras","plataforma":"Xbox","anio":2021,"puntuacion":9.2},
+  {"titulo":"Gran Turismo 7","genero":"Carreras","plataforma":"PlayStation","anio":2022,"puntuacion":9.1},
+  {"titulo":"Need for Speed Unbound","genero":"Carreras","plataforma":"PC","anio":2022,"puntuacion":8.0},
+  {"titulo":"Mario Kart 8 Deluxe","genero":"Carreras","plataforma":"Nintendo Switch","anio":2017,"puntuacion":9.5},
+
+  {"titulo":"Civilization VI","genero":"Estrategia","plataforma":"PC","anio":2016,"puntuacion":9.2},
+  {"titulo":"Age of Empires IV","genero":"Estrategia","plataforma":"PC","anio":2021,"puntuacion":8.8},
+  {"titulo":"Total War: Warhammer III","genero":"Estrategia","plataforma":"PC","anio":2022,"puntuacion":8.9},
+  {"titulo":"Crusader Kings III","genero":"Estrategia","plataforma":"PC","anio":2020,"puntuacion":9.1},
+
+  {"titulo":"Resident Evil 4 Remake","genero":"Terror","plataforma":"PC","anio":2023,"puntuacion":9.6},
+  {"titulo":"Resident Evil Village","genero":"Terror","plataforma":"PC","anio":2021,"puntuacion":9.0},
+  {"titulo":"Dead Space Remake","genero":"Terror","plataforma":"PC","anio":2023,"puntuacion":9.2},
+  {"titulo":"Alan Wake 2","genero":"Terror","plataforma":"PC","anio":2023,"puntuacion":9.5},
+
+  {"titulo":"Hollow Knight","genero":"Indie","plataforma":"PC","anio":2017,"puntuacion":9.7},
+  {"titulo":"Celeste","genero":"Indie","plataforma":"PC","anio":2018,"puntuacion":9.5},
+  {"titulo":"Stardew Valley","genero":"Indie","plataforma":"PC","anio":2016,"puntuacion":9.6},
+  {"titulo":"Cuphead","genero":"Indie","plataforma":"PC","anio":2017,"puntuacion":9.2},
+  {"titulo":"Ori and the Will of the Wisps","genero":"Indie","plataforma":"PC","anio":2020,"puntuacion":9.4},
+  {"titulo":"Inside","genero":"Indie","plataforma":"PC","anio":2016,"puntuacion":9.1}
+]
