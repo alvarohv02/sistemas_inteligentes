@@ -15,6 +15,10 @@ Proyecto desarrollado con **JADE** y **Java Swing** para recomendar videojuegos 
 - `lib/`: dependencias del proyecto, incluyendo JADE y Gson.
 - `bin/`: clases compiladas.
 
+## Diagrama de la Arquitectura
+
+![1783378381836](images/README/1783378381836.png)
+
 ## Instalacion en Eclipse
 
 1. Abrir Eclipse.
